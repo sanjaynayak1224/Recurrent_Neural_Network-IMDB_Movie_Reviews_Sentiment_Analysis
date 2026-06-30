@@ -1,1 +1,1 @@
-# Recurrent_Neural_Network-IMDB_Movie_Review_Sentiment_Analysis
+# Recurrent_Neural_Network-IMDB_Movie_Reviews_Sentiment_Analysis
