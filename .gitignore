@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache and Compilations
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# System Files
+Thumbs.db
+.DS_Store
+
+# Data Files (large datasets should not be checked into Git)
+IMDB Dataset.csv
